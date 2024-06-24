@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+Pillow
+torch
+git+https://github.com/openai/CLIP.git
+pinecone-client
+meilisearch
+pandas
+numpy<2.0
